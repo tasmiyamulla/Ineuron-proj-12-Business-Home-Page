@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### _Live Link_ -: [Business Home Page]()
+### _Live Link_ -: [Business Home Page](https://tasmiya-proj-12.netlify.app)
 
 ![Business Home Page](12.png)
 
